@@ -20,4 +20,4 @@ A simple and elegant Weather App built using HTML, CSS, and JavaScript that fetc
 - OpenWeatherMap API
 
 
-weather-app link:-
+weather-app link:-https://prismatic-mochi-43d230.netlify.app/
